@@ -1,0 +1,27 @@
+/*
+Mark White
+CSD420
+Assignment6.2
+*/
+
+
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
+
+.border {
+    -fx-border-color: black;
+    -fx-border-width: 5;
+}
+
