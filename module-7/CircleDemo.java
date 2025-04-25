@@ -1,7 +1,7 @@
 /*
  Mark White 
 CSD420
-Assignment6.2
+Assignment7.2
  */
 
 import javafx.application.Application;
